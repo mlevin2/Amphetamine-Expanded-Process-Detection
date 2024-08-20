@@ -6,7 +6,7 @@ Amphetamine is a sandboxed app. This means that macOS security restrictions prev
 
 ## How To Install Expanded Process Detection
 
-1. Download the [project](/archive/refs/heads/main.zip) or clone this [repository](/).
+1. Download the project or clone this repository.
 2. Unzip the project if you downloaded a zip file.
 3. Open a terminal and use `cd` to change to the unzipped directory or the location of the cloned repository.
 4. Use the following commands:
